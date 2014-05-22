@@ -135,5 +135,3 @@ class YoutubeToMP3 {
 		exit;
 	}
 }
-
-echo YoutubeToMP3::get('http://www.youtube.com/watch?v=B2m_WnXjqnM', YoutubeToMP3::LINK);
